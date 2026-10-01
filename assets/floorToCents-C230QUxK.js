@@ -1,0 +1,1 @@
+function e(e){return!Number.isFinite(e)||e<=0?0:Math.floor(e*100+1e-9)/100}export{e as t};

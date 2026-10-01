@@ -1,0 +1,1 @@
+import{t as e}from"./operator-Ec6PuYSM.js";function t(t,n,r=3){let i=new Map((n??[]).filter(e=>e.walletAddress!==null).map(e=>[e.walletAddress.toLowerCase(),e]));return t.filter(e=>e.walletAddress!==null).sort(e).slice(0,r).map(e=>({...e,solo:i.get(e.walletAddress.toLowerCase())}))}export{t};

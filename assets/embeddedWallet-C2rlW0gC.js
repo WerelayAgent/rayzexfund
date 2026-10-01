@@ -1,0 +1,1 @@
+function e(e){return e?.linkedAccounts?.find(e=>e.type===`wallet`&&e.walletClientType===`privy`&&e.chainType===`ethereum`)}function t(e,t){if(!t)return null;let n=t.toLowerCase();return e.find(e=>e.walletClientType===`privy`&&e.address.toLowerCase()===n)??null}function n({wallets:n,user:r}){return t(n,e(r)?.address)??void 0}export{t as n,e as r,n as t};

@@ -1,0 +1,1 @@
+import{ri as e}from"./initial-app-jMNi81UO.js";var t=/^dm-[a-f0-9]{24}-[a-f0-9]{24}$/i;function n(t,n){let r=t.displayName?.trim();return r&&!e.test(r)?`/messages/dm-${encodeURIComponent(r)}`:`/messages/${encodeURIComponent(n)}`}function r(e){return e.startsWith(`dm-`)&&!t.test(e)?e.slice(3):null}export{r as n,n as t};

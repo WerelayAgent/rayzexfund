@@ -1,0 +1,1 @@
+import"./rolldown-runtime-BTPm5ob3.js";import{Bs as e,Ts as t}from"./initial-vendor-BpDO0nPv.js";e();var n=t(),r=()=>(0,n.jsx)(`div`,{className:`h-full flex items-center justify-center`,children:(0,n.jsx)(`div`,{className:`font-bold`,children:`Transaction log coming soon`})});export{r as default};

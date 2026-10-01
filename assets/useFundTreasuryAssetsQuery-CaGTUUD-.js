@@ -1,0 +1,1 @@
+import{ss as e}from"./initial-vendor-BpDO0nPv.js";import{ur as t}from"./initial-app-jMNi81UO.js";var n=(n,r)=>e({...t(n),enabled:!!n,refetchInterval:r?.refetchInterval??!1});export{n as t};

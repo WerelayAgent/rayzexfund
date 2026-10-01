@@ -1,0 +1,1 @@
+var e=`/assets/usdc-CJ_qyDuP.svg`;export{e as t};

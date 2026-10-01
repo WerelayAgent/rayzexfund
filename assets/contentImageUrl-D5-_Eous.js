@@ -1,0 +1,1 @@
+import{Mi as e}from"./initial-app-jMNi81UO.js";var t=/^[0-9a-f]{40}$/,n=[384,800,1024,1280];function r(r,i,a){if(!t.test(r))return r;let o=typeof window<`u`?window.devicePixelRatio:1,s=Math.round(a*o);return`${e}/${i}/${r}-${n.find(e=>e>=s)??n[n.length-1]}.webp`}function i(e,t){return r(e,t,1/0)}export{i as n,r as t};

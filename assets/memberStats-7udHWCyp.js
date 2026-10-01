@@ -1,0 +1,1 @@
+function e(e,t){let n=Number(t?.metrics.totalShares??0),r=t?.metrics.totalAUM??0,i=Number(e.shares??`0`),a=n>0?i/n*100:0,o=n>0?i/n*r:0,s=e.capital,c=s===null?null:o-s;return{ownershipPct:a,currentValue:o,contributed:s,netPnl:c,returnPct:s!==null&&s>0&&c!==null?c/s*100:null}}export{e as t};

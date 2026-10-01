@@ -1,0 +1,1 @@
+var e=new Intl.Segmenter(void 0,{granularity:`grapheme`});function t(t){let n=0,r=e.segment(t)[Symbol.iterator]();for(;!r.next().done;)n+=1;return n}export{t};

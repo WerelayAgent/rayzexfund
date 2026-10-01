@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BTPm5ob3.js";import{Bs as t}from"./initial-vendor-BpDO0nPv.js";import{lt as n}from"./initial-app-jMNi81UO.js";var r=e(t(),1);function i(e=2e3){let[t,i]=(0,r.useState)(!1);return{copied:t,copy:async t=>{window.isSecureContext?await navigator.clipboard.writeText(t):n(t),i(!0),setTimeout(()=>i(!1),e)}}}export{i as t};

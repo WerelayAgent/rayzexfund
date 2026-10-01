@@ -1,0 +1,1 @@
+import{ss as e}from"./initial-vendor-BpDO0nPv.js";import{t}from"./leaderboardApi-DtCAe8C4.js";function n(n=!0){return e({queryKey:[`leaderboard`,`operators`],queryFn:t,staleTime:1e3*60*5,enabled:n})}export{n as t};

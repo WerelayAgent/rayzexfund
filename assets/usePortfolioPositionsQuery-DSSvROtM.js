@@ -1,0 +1,1 @@
+import{ss as e}from"./initial-vendor-BpDO0nPv.js";import{_r as t}from"./initial-app-jMNi81UO.js";var n=n=>e({...t(n??``),enabled:!!n});export{n as t};

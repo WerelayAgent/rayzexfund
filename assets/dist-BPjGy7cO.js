@@ -1,0 +1,1 @@
+import{vt as e}from"./dist-CnggVY1c2.js";export{e as registerSandboxAddresses};

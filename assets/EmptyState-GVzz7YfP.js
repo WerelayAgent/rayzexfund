@@ -1,0 +1,1 @@
+import"./rolldown-runtime-BTPm5ob3.js";import{Bs as e,Ts as t}from"./initial-vendor-BpDO0nPv.js";e();var n=t(),r=({message:e,action:t,compact:r})=>(0,n.jsxs)(`div`,{className:`empty-state flex-col gap-3 ${r?`py-3`:``}`,children:[(0,n.jsx)(`span`,{children:e}),t]});export{r as t};

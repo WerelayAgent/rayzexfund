@@ -1,0 +1,1 @@
+import{Ht as e,Pt as t,es as n,na as r}from"./initial-vendor-BpDO0nPv.js";import{Fi as i,wi as a,zi as o}from"./initial-app-jMNi81UO.js";var s=e({chain:a,transport:t(o,{retryCount:5,timeout:3e4})}),c=6;async function l(e){return r(await s.readContract({address:i.usdcAddress,abi:n,functionName:`balanceOf`,args:[e]}),c)}export{l as readWalletUsdcOnChain};

@@ -1,0 +1,1 @@
+var e={CRYPTO:`Crypto`,TRADING:`Trading`,EQUITIES:`Equities`,PREDICTION_MARKETS:`Prediction Markets`};export{e as t};
