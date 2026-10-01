@@ -29,7 +29,7 @@
   // this a light-mode visitor was served the dark document and watched the
   // whole page change colour once React hydrated.
   try {
-    var theme = window.localStorage.getItem('rayzexx-theme');
+    var theme = window.localStorage.getItem('rayzex-theme');
     if (theme === 'light' || theme === 'dark') {
       if (theme === 'light') root.classList.add('light');
       var meta = document.querySelector('meta[name="theme-color"]');
@@ -55,7 +55,7 @@
   // a STALE marker (session expired server-side) from hiding the login button
   // for good.
   try {
-    if (window.localStorage.getItem('rayzexx:has-session') === '1') {
+    if (window.localStorage.getItem('rayzex:has-session') === '1') {
       root.classList.add('session-restoring');
     }
   } catch (_e) {

@@ -1,1 +1,1 @@
-import"./rolldown-runtime-BTPm5ob3.js";import{Bs as e,Ts as t}from"./initial-vendor-BpDO0nPv.js";e();var n=t(),r=({className:e=``})=>(0,n.jsx)(`div`,{"aria-hidden":!0,className:`animate-pulse motion-reduce:animate-none rounded-lg bg-rayzexx-input/50 ${e}`});export{r as t};
+import"./rolldown-runtime-BTPm5ob3.js";import{Bs as e,Ts as t}from"./initial-vendor-BpDO0nPv.js";e();var n=t(),r=({className:e=``})=>(0,n.jsx)(`div`,{"aria-hidden":!0,className:`animate-pulse motion-reduce:animate-none rounded-lg bg-rayzex-input/50 ${e}`});export{r as t};

@@ -32,11 +32,11 @@
       property="og:description"
       content="Trade 100+ assets across stocks, crypto, and commodities with leverage. Powered by Uniswap."
     />
-    <meta property="og:url" content="https://app.rayzexx.app" />
-    <meta property="og:image" content="https://app.rayzexx.app/rayzex-social.png" />
+    <meta property="og:url" content="https://app.rayzex.app" />
+    <meta property="og:image" content="https://app.rayzex.app/rayzex-social.png" />
     <meta
       property="og:image:secure_url"
-      content="https://app.rayzexx.app/rayzex-social.png"
+      content="https://app.rayzex.app/rayzex-social.png"
     />
     <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
@@ -51,7 +51,7 @@
       name="twitter:description"
       content="Trade 100+ assets across stocks, crypto, and commodities with leverage. Powered by Uniswap."
     />
-    <meta name="twitter:image" content="https://app.rayzexx.app/rayzex-social.png" />
+    <meta name="twitter:image" content="https://app.rayzex.app/rayzex-social.png" />
     <meta
       name="twitter:image:alt"
       content="Rayzex Fund. Built for traders who win. Trade stocks, crypto, and more."

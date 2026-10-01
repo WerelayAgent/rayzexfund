@@ -1,1 +1,1 @@
-var e=`rayzexx-hl-agent-`;function t(){try{let e=[];for(let t=0;t<localStorage.length;t++){let n=localStorage.key(t);n?.startsWith(`rayzexx-hl-agent-`)&&e.push(n)}for(let t of e)localStorage.removeItem(t);return e.length}catch{return 0}}export{t as n,e as t};
+var e=`rayzex-hl-agent-`;function t(){try{let e=[];for(let t=0;t<localStorage.length;t++){let n=localStorage.key(t);n?.startsWith(`rayzex-hl-agent-`)&&e.push(n)}for(let t of e)localStorage.removeItem(t);return e.length}catch{return 0}}export{t as n,e as t};
